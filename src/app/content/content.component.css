@@ -1,0 +1,11 @@
+#container-da-imagem {
+    width: 300px;
+    position: relative;
+}
+#container-da-imagem img {
+    width: 90%
+}
+img {
+    width: 95pc;
+    height: 40pc
+}
